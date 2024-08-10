@@ -21,7 +21,7 @@
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
             android:theme="@style/CustomToolbarTheme"
-            app:contentScrim="@color/accent"
+            app:contentScrim="@color/dark_blue"
             app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
             app:title="Meal name">
 
