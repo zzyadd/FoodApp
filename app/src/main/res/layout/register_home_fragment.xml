@@ -161,6 +161,7 @@
             android:layout_marginEnd="16dp"
             android:onClick="@{()->myViewModel.sumbitButton()}"
             android:text="@string/register"
+            android:backgroundTint="@color/dark_blue"
             android:textColor="@color/white"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"

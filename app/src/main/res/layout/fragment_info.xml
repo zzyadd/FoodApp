@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.fragments.info_out.infoFragment"
+    tools:context=".ui.fragments.info_out.InfoFragment"
     android:background="@color/light_gray">
 
     <LinearLayout
@@ -37,6 +37,7 @@
             android:layout_gravity="center"
             android:textSize="16dp"
             android:textColor="@color/white"
+            android:backgroundTint="@color/dark_blue"
             />
 
 
