@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homeFragment"
+        />
+
+    <item android:title="Favorite"
+        android:icon="@drawable/ic_fav"
+        android:id="@+id/favoriteMeals"
+        />
+
+    <item android:title="About"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:id="@+id/about"
+        />
+    <item android:title="Sign out"
+        android:icon="@drawable/baseline_logout_24"
+        android:id="@+id/infoFragment"
+        />
+
+
+</menu>
